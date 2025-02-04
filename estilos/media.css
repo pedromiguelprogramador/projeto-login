@@ -36,7 +36,7 @@
         width: 400px;
 
         top: 50%;
-        left: 27%;
+        left: 32%;
     }
 
     p.preencha {
@@ -69,7 +69,7 @@
         padding-left: 5px;
         border: 3px solid var(--lilás);
         border-radius: 10px;
-        width: 45vw;
+        width: 47vw;
         height: 30px;
     }
 
@@ -80,7 +80,7 @@
         margin-bottom: 5px;
         border: 0px;
         border-radius: 8px;
-        width: 50vw;
+        width: 52vw;
         height: 40px;
     }
     
@@ -90,7 +90,7 @@
         color: #2d5d5c;
         border-radius: 8px;
         font-size: 15px;
-        width:  50vw;
+        width:  52vw;
         height: 40px;
     }
 }
