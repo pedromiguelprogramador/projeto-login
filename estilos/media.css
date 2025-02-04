@@ -10,7 +10,7 @@
     body {
         height: 100vh;
         width: 100vw;
-        background-color: white;
+        background-color: var(--lilás);
         background-image: linear-gradient(to top, var(--verde), var(--lilás))
     }
 
